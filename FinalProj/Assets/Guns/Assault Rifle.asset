@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79893234b10c6f041b62bfb9fb35ebea, type: 3}
+  m_Name: Assault Rifle
+  m_EditorClassIdentifier: 
+  Cooldown: 0.2
+  Velocity: 30
+  Damage: 20
+  ShotDelay: 0
+  Recoil: 3
+  Automatic: 1
+  bullet: {fileID: -7238045529750472628, guid: b45038a3050510a47804e45922405bc6, type: 3}
+  shoot: 
+  reload: 
